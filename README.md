@@ -6,7 +6,10 @@
 - [Leetcode](https://leetcode.com/9c-ccccccccc)
 
 
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/9c-ccccccccc)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F11ARGP7)
 
 
 <!---
