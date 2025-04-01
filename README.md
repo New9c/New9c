@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @New9c
-- 👀 I’m interested in making anything that seems interesting
-- 🌱 I’m currently learning frontend and backend.
-- 📫 How to reach me: aimccccccccc@gmail.com (public gmail)
-- [My Website](https://9c-ccccccccc.com)
-- [Leetcode](https://leetcode.com/9c-ccccccccc)
+## Hi, I’m 9c 👋 
+- ♥️ Interested in making anything that seems interesting
+- 🌱 Currently learning frontend and backend.
+- 📫 How to reach me: 9c@9c-ccccccccc.com
+- 🌐 My Website: https: https://9c-ccccccccc.com
+- ⚡ Leetcode Profile: https://leetcode.com/9c-ccccccccc
 
 
 
