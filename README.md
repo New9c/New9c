@@ -2,7 +2,7 @@
 - ♥️ Interested in making anything that seems interesting
 - 🌱 Currently learning frontend and backend.
 - 📫 How to reach me: 9c@9c-ccccccccc.com
-- 🌐 My Website: https://9c-ccccccccc.com
+- 🌐 My Website: https://danew9c.com
 - ⚡ Leetcode Profile: https://leetcode.com/9c-ccccccccc
 
 
