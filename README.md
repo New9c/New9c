@@ -1,6 +1,6 @@
 ## Hi, I’m 9c 👋 
 
-![Rice](niri-rice.svg)
+<object type="image/svg+xml" data="niri-rice.svg"></object>
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/9c-ccccccccc)
